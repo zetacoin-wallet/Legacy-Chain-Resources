@@ -62,7 +62,7 @@ This repository is the archived record of the chain that came before the current
 
 **No one from the project will ever ask for your `wallet.dat` or its passphrase.**
 
-## Support
+## Support.
 
 Report a problem on [the issue tracker](https://github.com/zetacoin-wallet/zetacoin-desktop-wallet/issues).
 
